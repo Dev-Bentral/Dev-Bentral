@@ -1,1 +1,11 @@
-
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.mycompany.Bentral",
+        "sha256_cert_fingerprints":
+          ["9E:C0:EB:7E:B7:0B:FB:73:86:3E:E2:7F:8C:F9:17:F4:34:B1:C6:1D:B8:EE:F9:CC:43:45:53:34:18:11:A3:AB"]
+      }
+    }
+  ]
